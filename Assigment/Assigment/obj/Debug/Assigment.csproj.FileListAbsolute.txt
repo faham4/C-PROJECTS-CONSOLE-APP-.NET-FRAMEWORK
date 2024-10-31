@@ -1,0 +1,7 @@
+C:\Users\FAHAM\source\repos\Assigment\Assigment\obj\Debug\Assigment.csproj.AssemblyReference.cache
+C:\Users\FAHAM\source\repos\Assigment\Assigment\obj\Debug\Assigment.csproj.CoreCompileInputs.cache
+C:\Users\FAHAM\source\repos\Assigment\Assigment\bin\Debug\Assigment.exe.config
+C:\Users\FAHAM\source\repos\Assigment\Assigment\bin\Debug\Assigment.exe
+C:\Users\FAHAM\source\repos\Assigment\Assigment\bin\Debug\Assigment.pdb
+C:\Users\FAHAM\source\repos\Assigment\Assigment\obj\Debug\Assigment.exe
+C:\Users\FAHAM\source\repos\Assigment\Assigment\obj\Debug\Assigment.pdb
